@@ -1,4 +1,7 @@
-# Ideal, Natural, & Flat-top -Sampling
+## EXP:01 Ideal, Natural, & Flat-top -Sampling
+
+## NAME: MAALINI B N 
+## REG NO: 212224060136
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
